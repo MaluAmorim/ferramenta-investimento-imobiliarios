@@ -1,4 +1,4 @@
-# ferramenta de simulação de investimentos de fundos imobiliários
+# Ferramenta de simulação de investimentos de fundos imobiliários
 
 Neste projeto foi aprendido a criar uma fereramenta de simulação de investimentos imobiliários.
 
